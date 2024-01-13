@@ -1,0 +1,22 @@
+Priority 0 [CRITICAL]
+
+
+Priority 1 [Highest]
+    Document Uploader
+    Typing system
+    WPM, Accuracy, Statistics
+
+
+Priority 2 [Medium]
+
+
+Priority 3 [Low]
+    Memory Algorithm to add/remove specific words from the document word pool
+
+Priority 4 [Optional]
+    Website / PDF / File Reader
+
+
+Notify:
+@chomc
+@jasonstarrising
